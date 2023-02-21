@@ -37,9 +37,9 @@ Cada uno de los registros representa un pedido en general el cual contiene los s
 </div>
  
  
-## Informes
+## Reportes
 
-### Informe de 2022
+### Informe de 2022 (Microsoft Excel)
 
 Este primer informe fue terminado el 17 de febrero del 2022 y fue elaborado en Microsoft Excel.
 
@@ -68,15 +68,31 @@ Con Excel se pueden hacer muchas cosas, entre ellas está el hacer Dashboards. E
  <img src="Assets/DashEPE15.png" width="383" height="229" title="Gráfico de pastel">
 </div>
 
-- **Dashboard:** 
-Finalmente uní todo en formato de referencia, agregue estructura y formato, y finalmete agregué dos segmentadores:
+- **Reporte:** 
+Por último uní todo en formato de referencia, agregue estructura y formato, y finalmete agregué dos segmentadores:
 - Fecha
 - Ciclo  
-y los uní a todos los gráficos.
+y los uní a todos los gráficos para que estos se actualizaran.
 
 [Enlace al Dashboard](https://correobuap-my.sharepoint.com/:x:/g/personal/arturo_diazga_alumno_buap_mx/ERgN8wGfXN9CvpTcfgUE1rEBp1KaBpr7n4WNSLrqK_ergw?e=XbXpJq)
 
 <img src="Assets/DashEPE16.png" width="960" height="431" title="Dashboard Natura Excel">
 
+### Reporte de 2023 (Microsoft Power BI)
 
+Este reporte casualmente fue terminado el 12 de febrero del 2023 y fue elaborado con Power BI.  
 
+Si bien este reporte está derivado del anterior, la creación fue mucho más rápida y con creces. A pesar de que es una herramienta con la que he interactuado un poco menos, su interfaz es fácil de usar y de aprender. Y el acabado es más estético y limpio. Me permitio visualizar rápidamente y no hubo muchas complicaciones, es casi todo automático. Si pudiera enumerar los pasos estos serían muy pocos, pero los muesto en comparación con el informe anterior:
+
+- **Limpieza de datos:** Esta tarea la hizo power BI automáticamente, sólo basto con cargar los datos del archivo y estos ya tenian un formato, mis únicas tareas consistieron en filtrar el Estado de pedidos, y agrupar los ciclos para una mejor segmentación -algo que pude haber hecho en Excel-.
+
+<img src="Assets/DashEPE21.png" width="438" height="315" title="Datos Power BI">
+
+- **Análisis:** Agregué los mismos gráficos y una tarjeta con el número de pedidos hechos, pues este número es muy importante para tener una idea más clara al usar los segmentadores.
+
+- **Reporte:** 
+En cuestión de segmentadores ahora agregué tres diferentes:
+  - Año
+  - Mes
+  - Ciclo: Este último fue mejorado con respecto al anterior para una mejor visualización y control.
+ En realidad todos tuvieron una mejora sustancial, pues esto permite un mayor control del reporte, y es más intuitivo y limpio.
