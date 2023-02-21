@@ -15,7 +15,7 @@ Así que en esta presentación mostraré lo que hice para ella, con el permiso d
 
 ## Datos
 
-Los datos fueron extraidos de la cuenta personal de Natura de mi novia, la cual otrogo me el permiso de revisar y publicar.
+Los datos fueron extraidos de la cuenta personal de Natura de mi novia, la cual me otorgo el permiso de revisar y publicar.
 
 Cada uno de los registros representa un pedido en general el cual contiene los siguientes campos:
 - **Número de pedido:** Puede entenderse como el id del pedido.
@@ -74,7 +74,7 @@ Por último uní todo en formato de referencia, agregue estructura y formato, y 
 - Ciclo  
 y los uní a todos los gráficos para que estos se actualizaran.
 
-[Enlace al Dashboard](https://correobuap-my.sharepoint.com/:x:/g/personal/arturo_diazga_alumno_buap_mx/ERgN8wGfXN9CvpTcfgUE1rEBp1KaBpr7n4WNSLrqK_ergw?e=XbXpJq)
+#### [Enlace al Informe en Microsoft Excel](https://correobuap-my.sharepoint.com/:x:/g/personal/arturo_diazga_alumno_buap_mx/ERgN8wGfXN9CvpTcfgUE1rEBp1KaBpr7n4WNSLrqK_ergw?e=XbXpJq)
 
 <img src="Assets/DashEPE16.png" width="960" height="431" title="Dashboard Natura Excel">
 
@@ -96,3 +96,18 @@ En cuestión de segmentadores ahora agregué tres diferentes:
   - Mes
   - Ciclo: Este último fue mejorado con respecto al anterior para una mejor visualización y control.
  En realidad todos tuvieron una mejora sustancial, pues esto permite un mayor control del reporte, y es más intuitivo y limpio.
+
+<div>
+ <img src="Assets/DashEPE17.png" width="262" height="473" title="Segmentadores 2022 Excel">
+ <img src="Assets/DashEPE23.png" width="366" height="453" title="Segmentadores 2023 Power BI">
+</div>
+
+#### [Enlace al Reporte en Power BI](https://www.novypro.com/project/natura-report-dmanpg) (Este enlace esta novypro, un sitio para almacenar reportes en Power BI) 
+
+<img src="Assets/DashEPE22.png" width="867" height="484" title="Reporte Power BI 2023">
+
+## Comentarios
+
+No sólo se puede notar que Power BI es una mejor herramienta para hacer está clase de visualizaciones, sino que el tiempo invertido es mucho menor. Lo que me llevo varias horas con Microsoft Excel, lo pude reducir a unas cuantas con Power BI.
+
+También hago notar, que si bien no parece un proyecto muy complejo o de gran alcance, para mi será de los más valiosos, y no sólo porque lo hice para mi novia -aunque me parece un buen motivo- sino que lo importante es que fue y es funcional para ella. Pudo visualizar tendencias, alzas y bajas, y también patrones en sus pedidos. Como lo veo y he aprendido, los datos incluso ya visualizados deben tener un objetivo, no sólo es mostrar por mostrar, estos deben informar, ser funcionales para el público objetivo, tener un impacto para la toma de decisiones y creo que logré materializarlo en este primer proyecto.
