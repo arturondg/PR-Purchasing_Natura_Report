@@ -17,14 +17,34 @@ Así que en esta presentación mostraré lo que hice para ella, con el permiso d
 
 Los datos fueron extraidos de la cuenta personal de Natura de mi novia, la cual otrogo me el permiso de revisar y publicar.
 
-Cada uno de los registros representa un pedido en general el cual contiene los siguientes datos:
+Cada uno de los registros representa un pedido en general el cual contiene los siguientes campos:
 - **Número de pedido:** Puede entenderse como el id del pedido.
-- **Número de factura
+- **Número de factura**
 - **Fecha de pedido:** Fecha en que se realizo el pedido, no la fecha de entrega la cual se hace en alrededor de 5 días. 
 - **Valor total de compra:** Suma total de los costos de los productos, envío, impuestos y otros.
 - **Puntos obtenidos:** Los puntos natura son indicador del nivel en la empresa.
 - **Ciclo:** Cada ciclo tiene una revista diferente, en la cual se ofrecen distintos productos y ofertas. Dura 21 días y hay 17 por año.
 - **Estado:** Este campo indica si el pedido se realizó o no.
 
+#### Datos sin procesar
 
+- [Enlace a datos del 2022](https://correobuap-my.sharepoint.com/:x:/g/personal/arturo_diazga_alumno_buap_mx/EUgOBeR3LuFNgWjDfPDCYjkB9lcOiwnqM6bBQzsTODIXwA?e=82di8E)  (Fecha de obtención: 9 de febrero del 2022) 
+- [Enlace a datos del 2023](https://correobuap-my.sharepoint.com/:x:/g/personal/arturo_diazga_alumno_buap_mx/ESKp0cKSlF1CqOy_DvmgcxQB1vAXqRZ_uHOqltMU-nNbZQ?e=q0TACE)  (Fecha de obtención: 14 de febrero del 2023) 
+
+<div>
+ <img src="Assets/DashEPE1.png" width="433" height="488" title="Datos del 2022">
+ <img src="Assets/DashEPE2.png" width="433" height="488" title="Datos del 2023">
+</div>
+ 
+ 
+## Informes
+
+### Informe de 2022
+
+Este primer informe fue terminado el 17 de febrero del 2022 y fue elaborado en Microsoft Excel.
+
+Con Excel se pueden hacer muchas cosas, entre ellas está el hacer Dashboards. El proceso que se uso fue simple:
+- **Escoger indicadores:** Opté por utilizar solamentelos campos de fecha, valor total de compra, ciclo y estado.
+- Limpieza de datos:
+  -
 
