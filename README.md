@@ -45,6 +45,9 @@ Este primer informe fue terminado el 17 de febrero del 2022 y fue elaborado en M
 
 Con Excel se pueden hacer muchas cosas, entre ellas está el hacer Dashboards. El proceso que se uso fue simple:
 - **Escoger indicadores:** Opté por utilizar solamentelos campos de fecha, valor total de compra, ciclo y estado.
-- Limpieza de datos:
-  -
+- **Limpieza de datos:** 
+  - Fecha: El formato de la fecha tiene algunos errores, pues aparece como texto, así que solo tuve que darle un formato de fecha.
+  - Estado: Excluí los pedidos anulados mediante el uso filtros.
+- **Análisis:** Procedí a hacer un formato de tabla para tablas dinámicas.
+ 
 
