@@ -51,7 +51,7 @@ Con Excel se pueden hacer muchas cosas, entre ellas está el hacer Dashboards. E
 
 <img src="Assets/DashEPE10.png" width="430" height="215" title="Datos del 2022">
 
-- **Análisis:** Procedí a hacer un formato de tabla para tablas dinámicas con los siguiente elementos:
+- **Análisis:** Procedí a hacer un formato de tabla para tablas dinámicas junto con los siguientes gráficos dinámicos:
   - Compras totales por año - _Gráfico de barras_
   - Evolución de compras - _Gráfico de lineas_
   -  Top 5 por ciclo - _Gráfico de columnas_
@@ -69,6 +69,14 @@ Con Excel se pueden hacer muchas cosas, entre ellas está el hacer Dashboards. E
 </div>
 
 - **Dashboard:** 
-Finalmente uní todo en formato de referencia, agregue estructura y formato, y finalmete agregué segmentadores y los conecté a todas las tablas.
-[]
+Finalmente uní todo en formato de referencia, agregue estructura y formato, y finalmete agregué dos segmentadores:
+- Fecha
+- Ciclo  
+y los uní a todos los gráficos.
+
+[Enlace al Dashboard](https://correobuap-my.sharepoint.com/:x:/g/personal/arturo_diazga_alumno_buap_mx/ERgN8wGfXN9CvpTcfgUE1rEBp1KaBpr7n4WNSLrqK_ergw?e=XbXpJq)
+
+<img src="Assets/DashEPE16.png" width="960" height="431" title="Dashboard Natura Excel">
+
+
 
