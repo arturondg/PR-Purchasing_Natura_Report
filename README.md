@@ -48,6 +48,27 @@ Con Excel se pueden hacer muchas cosas, entre ellas está el hacer Dashboards. E
 - **Limpieza de datos:** 
   - Fecha: El formato de la fecha tiene algunos errores, pues aparece como texto, así que solo tuve que darle un formato de fecha.
   - Estado: Excluí los pedidos anulados mediante el uso filtros.
-- **Análisis:** Procedí a hacer un formato de tabla para tablas dinámicas.
+
+<img src="Assets/DashEPE10.png" width="430" height="215" title="Datos del 2022">
+
+- **Análisis:** Procedí a hacer un formato de tabla para tablas dinámicas con los siguiente elementos:
+  - Compras totales por año - _Gráfico de barras_
+  - Evolución de compras - _Gráfico de lineas_
+  -  Top 5 por ciclo - _Gráfico de columnas_
+  -  Top 5 por fecha - _Gráfico de columnas_
+  -  Promedio - _Gráfico de pastel_
+  
+ [**Enlace de Tablas**](https://correobuap-my.sharepoint.com/:x:/g/personal/arturo_diazga_alumno_buap_mx/ETvuTTx2VzVFk64NTDnt0_YBUq0n_L_2sDfPf_Plofh6OQ?e=cYrlD8)
  
+<div>
+ <img src="Assets/DashEPE11.png" width="365" height="289" title="Gráfico de barras">
+ <img src="Assets/DashEPE12.png" width="472" height="287" title="Gráfico de lineas">
+ <img src="Assets/DashEPE13.png" width="437" height="191" title="Gráfico de columnas">
+ <img src="Assets/DashEPE14.png" width="434" height="210" title="Gráfico de columnas">
+ <img src="Assets/DashEPE15.png" width="383" height="229" title="Gráfico de pastel">
+</div>
+
+- **Dashboard:** 
+Finalmente uní todo en formato de referencia, agregue estructura y formato, y finalmete agregué segmentadores y los conecté a todas las tablas.
+[]
 
