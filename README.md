@@ -2,7 +2,17 @@
 
 <img src="https://www.sana-commerce.com/wp-content/uploads/1152x720_NaturaBrasil.jpg" width="576" height="360" alt="natura logo">
 
-## Introducción
+## Tabla de Contenidos
+- [Introducción](#0)  
+- [Datos](#1)  
+  - [Datos sin procesar](#2)  
+- [Reportes](#3)  
+  - [Informe de 2022 (Microsoft Excel)](#4) 
+    - [Enlace a informe](#6) 
+  - [Reporte de 2023 (Microsoft Power BI)](#5) 
+    - [Enlace a reporte](#7) 
+
+## Introducción <a id="0"></a>
 
 Hace un año en el que iniciaba mi trayectoria en el mundo de la programación -En este punto aún no había elegido que quería convertirme en un especialista de datos- y estaba en la búsqueda de un empleo decidí que debía reaprender ciertas herramientas y así poder estar actualizado para poder emplearme más fácilmente. En este caso el programa que elegí fue Microsoft Excel, pues su uso es muy extendido y ya había tenido un acercamiento a este, por lo que estuve algunas semanas aprendiendo más funciones y entendiendolo a profundidad. 
 
@@ -13,7 +23,7 @@ En su página personal ella puede descargar una hoja de Excel que le brinda dato
 En esa fecha que fue febrero de 2022 hice un Dashboard en Excel, y recientemene con datos actualizados hice el mismo reporte pero con Power BI.
 Así que en esta presentación mostraré lo que hice para ella, con el permiso de poder compartirlo.
 
-## Datos
+## Datos <a id="1"></a>
 
 Los datos fueron extraidos de la cuenta personal de Natura de mi novia, la cual me otorgo el permiso de revisar y publicar.
 
@@ -26,7 +36,7 @@ Cada uno de los registros representa un pedido en general el cual contiene los s
 - **Ciclo:** Cada ciclo tiene una revista diferente, en la cual se ofrecen distintos productos y ofertas. Dura 21 días y hay 17 por año.
 - **Estado:** Este campo indica si el pedido se realizó o no.
 
-#### Datos sin procesar
+#### Datos sin procesar <a id="2"></a>
 
 - [Enlace a datos del 2022](https://correobuap-my.sharepoint.com/:x:/g/personal/arturo_diazga_alumno_buap_mx/EUgOBeR3LuFNgWjDfPDCYjkB9lcOiwnqM6bBQzsTODIXwA?e=82di8E)  (Fecha de obtención: 9 de febrero del 2022) 
 - [Enlace a datos del 2023](https://correobuap-my.sharepoint.com/:x:/g/personal/arturo_diazga_alumno_buap_mx/ESKp0cKSlF1CqOy_DvmgcxQB1vAXqRZ_uHOqltMU-nNbZQ?e=q0TACE)  (Fecha de obtención: 14 de febrero del 2023) 
@@ -37,9 +47,9 @@ Cada uno de los registros representa un pedido en general el cual contiene los s
 </div>
  
  
-## Reportes
+## Reportes <a id="3"></a>
 
-### Informe de 2022 (Microsoft Excel)
+### Informe de 2022 (Microsoft Excel) <a id="4"></a>
 
 Este primer informe fue terminado el 17 de febrero del 2022 y fue elaborado en Microsoft Excel.
 
@@ -74,11 +84,11 @@ Por último uní todo en formato de referencia, agregue estructura y formato, y 
 - Ciclo  
 y los uní a todos los gráficos para que estos se actualizaran.
 
-#### [Enlace al Informe en Microsoft Excel](https://correobuap-my.sharepoint.com/:x:/g/personal/arturo_diazga_alumno_buap_mx/ERgN8wGfXN9CvpTcfgUE1rEBp1KaBpr7n4WNSLrqK_ergw?e=XbXpJq)
+#### [Enlace al Informe en Microsoft Excel](https://correobuap-my.sharepoint.com/:x:/g/personal/arturo_diazga_alumno_buap_mx/ERgN8wGfXN9CvpTcfgUE1rEBp1KaBpr7n4WNSLrqK_ergw?e=XbXpJq) <a id="6"></a>
 
 <img src="Assets/DashEPE16.png" width="960" height="431" title="Dashboard Natura Excel">
 
-### Reporte de 2023 (Microsoft Power BI)
+### Reporte de 2023 (Microsoft Power BI) <a id="5"></a>
 
 Este reporte casualmente fue terminado el 12 de febrero del 2023 y fue elaborado con Power BI.  
 
@@ -102,7 +112,7 @@ En cuestión de segmentadores ahora agregué tres diferentes:
  <img src="Assets/DashEPE23.png" width="366" height="453" title="Segmentadores 2023 Power BI">
 </div>
 
-#### [Enlace al Reporte en Power BI](https://www.novypro.com/project/natura-report-dmanpg) (Este enlace esta novypro, un sitio para almacenar reportes en Power BI) 
+#### [Enlace al Reporte en Power BI](https://www.novypro.com/project/natura-report-dmanpg) (Este enlace esta novypro, un sitio para almacenar reportes en Power BI)  <a id="7"></a>
 
 <img src="Assets/DashEPE22.png" width="867" height="484" title="Reporte Power BI 2023">
 
