@@ -54,7 +54,7 @@ This first report was completed on February 17, 2022 and was prepared in Microso
 
 With Excel you can do many things, among them is to make Dashboards. The process used was simple:
 - **Choose indicators:** I chose to use only the date, total purchase value, cycle and status fields.
-- Data cleansing:** ** Date: The date format has 
+- **Data cleansing:** ** Date: The date format has 
   - Date: The date format has some errors, as it appears as text, so I just had to format it as date.
   - Status: I excluded cancelled orders by using filters.
 
