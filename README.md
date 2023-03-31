@@ -30,12 +30,12 @@ The data was extracted from my girlfriend's personal Natura account, which she g
 
 Each of the records represents a general order which contains the following fields:
 - **Order number:** Can be understood as the order id.
-- Invoice number
-- Order date:** Date the order was placed, not the delivery date which is about 5 days. 
-- Total purchase value:** Total sum of product costs, shipping, taxes and others.
-- Points obtained:** The natural points are an indicator of the level in the company.
-- Cycle:** Each cycle has a different magazine, in which different products and offers are offered. It lasts 21 days and there are 17 per year.
-- Status:** This field indicates whether the order has been placed or not.
+- **Invoice number**
+- **Order date:** Date the order was placed, not the delivery date which is about 5 days. 
+- **Total purchase value:** Total sum of product costs, shipping, taxes and others.
+- **Points obtained:** The natural points are an indicator of the level in the company.
+- **Cycle:** Each cycle has a different magazine, in which different products and offers are offered. It lasts 21 days and there are 17 per year.
+- **Status:** This field indicates whether the order has been placed or not.
 
 #### Raw Data <a id="2"></a> 
 
