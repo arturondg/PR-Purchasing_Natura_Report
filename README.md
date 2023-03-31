@@ -83,7 +83,7 @@ Finally I joined everything in reference format, added structure and formatting,
 - Cycle  
 and attached them to all the graphs so that they would update.
 
-#### [Link to Microsoft Excel Report](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/Ef_47hvqLNlDptM4EysFTngBdsnxIeQTLACnLGhZYEBN7w?e=MY2qlL) <a id="6"></a>
+#### [Link to Microsoft Excel Report](https://innovaccion-my.sharepoint.com/:x:/g/personal/ceinnova12182_innovaccion_mx/Ef_47hvqLNlDptM4EysFTngBdsnxIeQTLACnLGhZYEBN7w?e=g40cTs) <a id="6"></a>
 
 <img src="Assets/DashEPE16.png" width="960" height="431" title="Dashboard Natura Excel">
 
