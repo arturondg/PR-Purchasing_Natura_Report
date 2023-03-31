@@ -61,11 +61,11 @@ With Excel you can do many things, among them is to make Dashboards. The process
 <img src="Assets/DashEPE10.png" width="430" height="215" title="2022 Data">
 
 - **Analysis:** I proceeded to make a table format for pivot tables along with the following pivot charts:
-  - Total purchases per year - _Bar chart_.
-  - Evolution of purchases - _Line chart_.
-  - Top 5 by cycle - _Column chart_ _Top 5 by date - _Column chart_ _Top 5 by date - _Top 5 by date
-  - Top 5 by date - _Column chart_ _Top 5 by date - _Column chart_ _Average - _Column chart
-  - Average - _Pie chart_ _Pie chart_.
+  - Total purchases per year - _Bar chart_
+  - Evolution of purchases - _Line chart_
+  - Top 5 by cycle - _Column chart_ 
+  - Top 5 by date - _Column chart_
+  - Average - _Pie chart_ 
   
    [**Table Link**](https://correobuap-my.sharepoint.com/:x:/g/personal/arturo_diazga_alumno_buap_mx/ETvuTTx2VzVFk64NTDnt0_YBUq0n_L_2sDfPf_Plofh6OQ?e=cYrlD8)
    
@@ -97,9 +97,9 @@ Although this report is derived from the previous one, the creation was much fas
 
 <img src="Assets/DashEPE21.png" width="438" height="315" title="Power BI Data">
 
-- Analysis:** I added the same graphics and a card with the number of orders placed, as this number is very important to have a clearer idea when using the segmenters.
+- **Analysis:** I added the same graphics and a card with the number of orders placed, as this number is very important to have a clearer idea when using the segmenters.
 
-- Report: **Report: ** 
+- **Report:** 
 In terms of segmenters I now added three different ones:
   - Year
   - Month
